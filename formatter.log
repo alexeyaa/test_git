@@ -1,0 +1,1542 @@
+CreateFile(\\.\I:) -> 120 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(120)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 120 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(120)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 120 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(120)
+Handle Count = 0
+LengthInfo = 3921920
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> 120 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> 124 at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(120) at .\Win2kdll.c 897
+relative =16 total = 3921904volsize 2 3921904
+CloseHandle(120)
+Handle Count = 1
+CloseHandle(124)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 124 at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(124)
+Handle Count = 0
+CreateFile(\\.\H:) -> 124 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(124)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive2) -> 124 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) = 21 at .\Win2kdll.c 3496
+CloseHandle(124)
+Handle Count = 0
+CreateFile(\\.\H:) -> 238 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive2) -> 238 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) = 21 at .\Win2kdll.c 3496
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\E:) -> 238 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 238 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) = 21 at .\Win2kdll.c 3496
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\H:) -> 238 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive2) -> 238 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) = 21 at .\Win2kdll.c 3496
+CloseHandle(238)
+Handle Count = 0
+CreateFile(\\.\E:) -> 280 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(280)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 280 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) = 21 at .\Win2kdll.c 3496
+CloseHandle(280)
+Handle Count = 0
+CreateFile(\\.\E:) -> d8 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(d8)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\E:) -> dc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(D8) at .\Win2kdll.c 897
+relative =64 total = 409600volsize 2 409600
+CloseHandle(d8)
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> dc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\E:) -> 100 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(100)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\E:) -> 104 at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(100) at .\Win2kdll.c 897
+relative =64 total = 409600volsize 2 409600
+CloseHandle(100)
+Handle Count = 1
+CloseHandle(104)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 104 at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(104)
+Handle Count = 0
+CreateFile(\\.\E:) -> 108 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(108)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 108 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(108)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 108 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(108)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> 108 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\E:) -> 10c at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(108) at .\Win2kdll.c 897
+relative =64 total = 409600volsize 2 409600
+CloseHandle(108)
+Handle Count = 1
+CloseHandle(10c)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 10c at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(10c)
+Handle Count = 0
+CreateFile(\\.\I:) -> d8 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(d8)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> dc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(D8) at .\Win2kdll.c 897
+relative =16065 total = 30844800volsize 2 30844800
+CloseHandle(d8)
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> dc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\I:) -> f8 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(f8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(f8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(f8)
+Handle Count = 0
+LengthInfo = 30865408
+volsize 1 30865408
+SD_W2k_DDReadPT offset=30865407 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDChkSDCard 9
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 1612
+Cylinders=1921 TracksPerCylinder=255 SectorsPerTrack=63
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 1687
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(F8) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(F8) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDIoPT 0 1
+CloseHandle(f8)
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(fc)
+Handle Count = 0
+LengthInfo = 30865408
+volsize 1 30865408
+SD_W2k_DDReadPT offset=30865407 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> 100 at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDChkSDCard 9
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 1612
+Cylinders=1921 TracksPerCylinder=255 SectorsPerTrack=63
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 1687
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDIoPT 0 1
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=0 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=64 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=448 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=512 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=576 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=640 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=704 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=768 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=832 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=896 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=960 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1024 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1088 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1152 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1216 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1280 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1344 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1408 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1472 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1536 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1600 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1664 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1728 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1792 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1856 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1920 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1984 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2048 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2112 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2176 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2240 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2304 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2368 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2432 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2496 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2560 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2624 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2688 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2752 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2816 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2880 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2944 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3008 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3072 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3136 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3200 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3264 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3328 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3392 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3456 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3520 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3584 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3648 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3712 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3776 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3840 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3904 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3968 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4032 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4096 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4160 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4224 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4288 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4352 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4416 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4480 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4544 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4608 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4672 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4736 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4800 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4864 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4928 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4992 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5056 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5120 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5184 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5248 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5312 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5376 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5440 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5504 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5568 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5632 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5696 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5760 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5824 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5888 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5952 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6016 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6080 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6144 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6208 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6272 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6336 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6400 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6464 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6528 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6592 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6656 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6720 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6784 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6848 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6912 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6976 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7040 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7104 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7168 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7232 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7296 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7360 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7424 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7488 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7552 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7616 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7680 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7744 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7808 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7872 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7936 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8000 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8064 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8448 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8512 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8576 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8640 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8704 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8768 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8832 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8896 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8960 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9024 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9088 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9152 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9216 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9280 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9344 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9408 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9472 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9536 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9600 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9664 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9728 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9792 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9856 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9920 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9984 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10048 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10112 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10176 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10240 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10304 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10368 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10432 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10496 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10560 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10624 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10688 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10752 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10816 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10880 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10944 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11008 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11072 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11136 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11200 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11264 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11328 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11392 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11456 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11520 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11584 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11648 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11712 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11776 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11840 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11904 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11968 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12032 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12096 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12160 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12224 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12288 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12352 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12416 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12480 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12544 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12608 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12672 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12736 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12800 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12864 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12928 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12992 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13056 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13120 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13184 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13248 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13312 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13376 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13440 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13504 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13568 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13632 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13696 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13760 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13824 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13888 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13952 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14016 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14080 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14144 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14208 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14272 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14336 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14400 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14464 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14528 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14592 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14656 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14720 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14784 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14848 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14912 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14976 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15040 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15104 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15168 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15232 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15296 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15360 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15424 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15488 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15552 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15616 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15680 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15744 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15808 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15872 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15936 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16000 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16064 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+CloseHandle(fc)
+Handle Count = 1
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\I:) -> 100 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(100)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(100) at .\Win2kdll.c 897
+relative =8192 total = 30857216volsize 2 30857216
+CloseHandle(100)
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\I:) -> d8 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(d8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(d8)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> d8 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> dc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(D8) at .\Win2kdll.c 897
+relative =48195 total = 26619705volsize 2 26619705
+CloseHandle(d8)
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> dc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(dc)
+Handle Count = 0
+CreateFile(\\.\I:) -> f8 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(f8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(f8)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(f8)
+Handle Count = 0
+LengthInfo = 30865408
+volsize 1 30865408
+SD_W2k_DDReadPT offset=30865407 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> f8 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDChkSDCard 9
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 1612
+Cylinders=1921 TracksPerCylinder=255 SectorsPerTrack=63
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 1687
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(F8) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(F8) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(F8) at .\Win2kdll.c 897
+SD_W2k_DDIoPT 0 1
+CloseHandle(f8)
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(fc)
+Handle Count = 0
+LengthInfo = 30865408
+volsize 1 30865408
+SD_W2k_DDReadPT offset=30865407 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> 100 at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDChkSDCard 9
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 1612
+Cylinders=1921 TracksPerCylinder=255 SectorsPerTrack=63
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 1687
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=1 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=1 secsize=1
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDIoPT 0 1
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDReadPT offset=0 secsize=1
+ReadFile(FC) at .\Win2kdll.c 897
+SD_W2k_DDWritePT offset=0 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=64 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=448 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=512 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=576 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=640 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=704 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=768 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=832 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=896 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=960 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1024 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1088 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1152 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1216 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1280 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1344 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1408 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1472 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1536 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1600 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1664 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1728 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1792 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1856 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1920 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=1984 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2048 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2112 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2176 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2240 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2304 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2368 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2432 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2496 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2560 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2624 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2688 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2752 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2816 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2880 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=2944 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3008 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3072 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3136 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3200 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3264 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3328 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3392 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3456 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3520 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3584 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3648 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3712 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3776 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3840 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3904 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=3968 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4032 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4096 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4160 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4224 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4288 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4352 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4416 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4480 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4544 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4608 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4672 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4736 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4800 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4864 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4928 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=4992 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5056 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5120 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5184 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5248 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5312 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5376 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5440 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5504 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5568 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5632 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5696 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5760 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5824 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5888 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=5952 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6016 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6080 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6144 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6208 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6272 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6336 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6400 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6464 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6528 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6592 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6656 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6720 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6784 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6848 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6912 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=6976 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7040 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7104 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7168 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7232 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7296 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7360 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7424 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7488 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7552 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7616 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7680 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7744 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7808 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7872 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=7936 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8000 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8064 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8448 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8512 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8576 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8640 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8704 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8768 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8832 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8896 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=8960 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9024 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9088 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9152 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9216 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9280 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9344 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9408 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9472 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9536 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9600 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9664 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9728 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9792 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9856 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9920 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=9984 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10048 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10112 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10176 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10240 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10304 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10368 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10432 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10496 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10560 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10624 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10688 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10752 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10816 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10880 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=10944 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11008 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11072 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11136 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11200 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11264 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11328 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11392 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11456 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11520 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11584 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11648 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11712 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11776 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11840 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11904 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=11968 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12032 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12096 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12160 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12224 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12288 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12352 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12416 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12480 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12544 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12608 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12672 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12736 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12800 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12864 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12928 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=12992 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13056 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13120 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13184 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13248 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13312 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13376 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13440 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13504 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13568 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13632 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13696 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13760 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13824 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13888 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=13952 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14016 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14080 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14144 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14208 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14272 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14336 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14400 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14464 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14528 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14592 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14656 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14720 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14784 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14848 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14912 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=14976 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15040 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15104 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15168 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15232 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15296 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15360 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15424 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15488 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15552 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15616 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15680 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15744 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15808 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15872 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=15936 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16000 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16064 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16128 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16192 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16256 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16320 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+SD_W2k_DDWritePT offset=16384 secsize=64
+WriteFile(FC) at .\Win2kdll.c 1332
+CloseHandle(fc)
+Handle Count = 1
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\I:) -> 100 at .\Win2kdll.c 3367
+Handle Count = 1
+DeviceIoControl(IOCTL_STORAGE_GET_DEVICE_NUMBER) at .\Win2kdll.c 3411
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3450
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_DRIVE_GEOMETRY) at .\Win2kdll.c 3496
+CloseHandle(100)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 3772
+Handle Count = 1
+DeviceIoControl(IOCTL_DISK_GET_LENGTH_INFO) at .\Win2kdll.c 3798
+CloseHandle(100)
+Handle Count = 0
+LengthInfo = 30865408
+SD_W2k_DDReadPT offset=0 secsize=1
+CreateFile(\\.\PhysicalDrive5) -> 100 at .\Win2kdll.c 762
+Handle Count = 1
+CreateFile(\\.\I:) -> fc at .\Win2kdll.c 778
+Handle Count = 2
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 785
+DeviceIoControl(FSCTL_DISMOUNT_VOLUME) at .\Win2kdll.c 786
+ReadFile(100) at .\Win2kdll.c 897
+relative =8192 total = 30857216volsize 2 30857216
+CloseHandle(100)
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
+CreateFile(\\.\PhysicalDrive5) -> fc at .\Win2kdll.c 536
+Handle Count = 1
+CloseHandle(fc)
+Handle Count = 0
